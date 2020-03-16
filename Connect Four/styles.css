@@ -1,0 +1,44 @@
+/* Body */
+body
+{
+  background-color: #67eaca;
+}
+
+/* The title */
+.container-top
+{
+  font-family: cursive;
+  font-size: 2.5rem;
+  text-align: center;
+  color: #00028c;
+}
+
+h2
+{
+  font-size: 2rem;
+  color: #ee4540;
+}
+
+footer
+{
+    font-size: 1.4rem;
+    text-align: center;
+    color: purple;
+    margin-top: 40px;
+}
+/* Board container layout */
+.board
+{
+    margin: auto;
+    margin-top: 80px;
+}
+
+button
+{
+  width: 80px;
+  height: 80px;
+  background-color: rgb(128, 128, 128);
+  margin: 1px;
+  border-radius: 50%;
+  border: 4px solid black;
+}
